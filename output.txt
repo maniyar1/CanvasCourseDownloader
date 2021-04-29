@@ -1,0 +1,643 @@
+course for mani: AU20 CSE 2221 - SW 1: Components (6988)
+Course: AU20 CSE 2221 - SW 1: Components (6988) (84793)
+Date: 2020-07-28T00:00:00Z - 2021-03-08T00:00:00Z (created 2020-07-31T14:36:38Z)
+Homework #1 (1809572)
+Assignment: Homework #1 (1809572)
+Created: 2020-08-23T17:16:59Z
+Due: 2020-08-27T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809572/submissions?zip=1
+Homework #2 (1809579)
+Assignment: Homework #2 (1809579)
+Created: 2020-08-23T17:16:59Z
+Due: 2020-09-02T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809579/submissions?zip=1
+Homework #3 (1809580)
+Assignment: Homework #3 (1809580)
+Created: 2020-08-23T17:16:59Z
+Due: 2020-09-03T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809580/submissions?zip=1
+Homework #4 (1809582)
+Assignment: Homework #4 (1809582)
+Created: 2020-08-23T17:16:59Z
+Due: 2020-09-08T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809582/submissions?zip=1
+Homework #5 (1809588)
+Assignment: Homework #5 (1809588)
+Created: 2020-08-23T17:17:00Z
+Due: 2020-09-15T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809588/submissions?zip=1
+Homework #6 (1809590)
+Assignment: Homework #6 (1809590)
+Created: 2020-08-23T17:17:00Z
+Due: 2020-09-17T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809590/submissions?zip=1
+Homework #7 (1809594)
+Assignment: Homework #7 (1809594)
+Created: 2020-08-23T17:17:00Z
+Due: 2020-09-22T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809594/submissions?zip=1
+Homework #8 (1809597)
+Assignment: Homework #8 (1809597)
+Created: 2020-08-23T17:17:00Z
+Due: 2020-09-29T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809597/submissions?zip=1
+Homework #9 (1809601)
+Assignment: Homework #9 (1809601)
+Created: 2020-08-23T17:17:01Z
+Due: 2020-10-02T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809601/submissions?zip=1
+Homework #10 (1809603)
+Assignment: Homework #10 (1809603)
+Created: 2020-08-23T17:17:01Z
+Due: 2020-10-06T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809603/submissions?zip=1
+Homework #11 (1809605)
+Assignment: Homework #11 (1809605)
+Created: 2020-08-23T17:17:01Z
+Due: 2020-10-07T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809605/submissions?zip=1
+Homework #12 (1809610)
+Assignment: Homework #12 (1809610)
+Created: 2020-08-23T17:17:01Z
+Due: 2020-10-20T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809610/submissions?zip=1
+Homework #13 (1809615)
+Assignment: Homework #13 (1809615)
+Created: 2020-08-23T17:17:02Z
+Due: 2020-10-27T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809615/submissions?zip=1
+Homework #14 (1809616)
+Assignment: Homework #14 (1809616)
+Created: 2020-08-23T17:17:02Z
+Due: 2020-10-28T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809616/submissions?zip=1
+Homework #15 (1809617)
+Assignment: Homework #15 (1809617)
+Created: 2020-08-23T17:17:02Z
+Due: 2020-10-30T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809617/submissions?zip=1
+Homework #16 (1809618)
+Assignment: Homework #16 (1809618)
+Created: 2020-08-23T17:17:02Z
+Due: 2020-11-03T20:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809618/submissions?zip=1
+Homework #17 (1809619)
+Assignment: Homework #17 (1809619)
+Created: 2020-08-23T17:17:02Z
+Due: 2020-11-04T20:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809619/submissions?zip=1
+Homework #18 (1809621)
+Assignment: Homework #18 (1809621)
+Created: 2020-08-23T17:17:03Z
+Due: 2020-11-06T20:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809621/submissions?zip=1
+Homework #19 (1809622)
+Assignment: Homework #19 (1809622)
+Created: 2020-08-23T17:17:03Z
+Due: 2020-11-12T20:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809622/submissions?zip=1
+Homework #20 (1809623)
+Assignment: Homework #20 (1809623)
+Created: 2020-08-23T17:17:03Z
+Due: 2020-11-13T20:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809623/submissions?zip=1
+Homework #21 (1809625)
+Assignment: Homework #21 (1809625)
+Created: 2020-08-23T17:17:03Z
+Due: 2020-11-18T20:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809625/submissions?zip=1
+Homework #22 (1809627)
+Assignment: Homework #22 (1809627)
+Created: 2020-08-23T17:17:03Z
+Due: 2020-11-25T20:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809627/submissions?zip=1
+Hello Jack (1809575)
+Assignment: Hello Jack (1809575)
+Created: 2020-08-23T17:16:59Z
+Due: 2020-08-28T20:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809575/submissions?zip=1
+Project #1 (1809577)
+Assignment: Project #1 (1809577)
+Created: 2020-08-23T17:16:59Z
+Due: 2020-09-01T18:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809577/submissions?zip=1
+Project #2 (1809585)
+Assignment: Project #2 (1809585)
+Created: 2020-08-23T17:17:00Z
+Due: 2020-09-10T18:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809585/submissions?zip=1
+Project #3 (1809592)
+Assignment: Project #3 (1809592)
+Created: 2020-08-23T17:17:00Z
+Due: 2020-09-18T18:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809592/submissions?zip=1
+Project #4 (1809599)
+Assignment: Project #4 (1809599)
+Created: 2020-08-23T17:17:01Z
+Due: 2020-09-30T18:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809599/submissions?zip=1
+Project #5 (1809607)
+Assignment: Project #5 (1809607)
+Created: 2020-08-23T17:17:01Z
+Due: 2020-10-09T18:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809607/submissions?zip=1
+Project #6 (1809608)
+Assignment: Project #6 (1809608)
+Created: 2020-08-23T17:17:01Z
+Due: 2020-10-16T18:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809608/submissions?zip=1
+Project #7 (1809612)
+Assignment: Project #7 (1809612)
+Created: 2020-08-23T17:17:02Z
+Due: 2020-10-23T18:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809612/submissions?zip=1
+Project #8 (1809620)
+Assignment: Project #8 (1809620)
+Created: 2020-08-23T17:17:02Z
+Due: 2020-11-10T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809620/submissions?zip=1
+Project #9 (1809624)
+Assignment: Project #9 (1809624)
+Created: 2020-08-23T17:17:03Z
+Due: 2020-11-17T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809624/submissions?zip=1
+Project #10 (1809626)
+Assignment: Project #10 (1809626)
+Created: 2020-08-23T17:17:03Z
+Due: 2020-11-25T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809626/submissions?zip=1
+Project #11 (1809628)
+Assignment: Project #11 (1809628)
+Created: 2020-08-23T17:17:04Z
+Due: 2020-12-04T19:00:00Z
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809628/submissions?zip=1
+Quiz #1 (Remotely Proctored) (1872018)
+Assignment: Quiz #1 (Remotely Proctored) (1872018)
+Created: 2020-09-14T17:33:52Z
+Due: 2020-09-14T23:50:00Z
+Download submission: https://osu.instructure.com/courses/84793/quizzes/417300/submissions?zip=1
+Description: <html>
+ <body>
+  <div class="proctorio-oembed">
+   <p>
+    This exam is open book, open notes, open Eclipse. However, you may not confer, consult, or collaborate with anyone. You must complete this exam entirely on your own, without help from others. (Note: You may find that it is more time efficient to answer all the questions from your understanding first, rather than take time to look them up, or run them through Eclipse to test them.)
+   </p>
+   <p>
+    Do not discuss this exam with anyone in CSE 2221 who has not yet taken the exam.
+   </p>
+   <p>
+    Failure to observe these restrictions will be treated as academic misconduct.
+   </p>
+   <p>
+    If needed, you may consult the OSU/CSE Javadoc APIs at
+    <a class="external" href="http://web.cse.ohio-state.edu/software/common/doc/" target="_blank">
+     <span>
+      http://web.cse.ohio-state.edu/software/common/doc/
+     </span>
+     <span class="screenreader-only">
+      (Links to an external site.)
+     </span>
+    </a>
+    . You may also consult the Java API at
+    <a class="external" href="https://docs.oracle.com/en/java/javase/14/docs/api/index.html" target="_blank">
+     <span>
+      https://docs.oracle.com/en/java/javase/14/docs/api/index.html
+     </span>
+     <span class="screenreader-only">
+      (Links to an external site.)
+     </span>
+    </a>
+    .
+   </p>
+   <p>
+    You must use spaces instead of the tab key for indenting in coding questions on Carmen. You may find it easier to write your coding solutions in a notepad or Eclipse and then copy and paster them to Carmen.
+   </p>
+  </div>
+  <p>
+   <span class="proctorioexam" style="display: none;">
+    275ef12617661eee2b7e3d8380486f1a
+   </span>
+   <span class="proctoriocourse" style="display: none;">
+    84793
+   </span>
+  </p>
+  <p>
+   <iframe class="proctorio-embed" src="https://az545770.vo.msecnd.net/lti/exam" style="height: 540px; width: 100%; border: 0; overflow: hidden;">
+   </iframe>
+  </p>
+ </body>
+</html>
+Description Link: http://web.cse.ohio-state.edu/software/common/doc/
+Description Link: https://docs.oracle.com/en/java/javase/14/docs/api/index.html
+Quiz #2 (Remotely Proctored) (1890404)
+Assignment: Quiz #2 (Remotely Proctored) (1890404)
+Created: 2020-09-28T19:35:56Z
+Due: 2020-09-29T00:50:00Z
+Download submission: https://osu.instructure.com/courses/84793/quizzes/423836/submissions?zip=1
+Description: <html>
+ <body>
+  <div class="proctorio-oembed">
+   <p>
+    This exam is open book, open notes, open Eclipse. However, you may not confer, consult, or collaborate with anyone. You must complete this exam entirely on your own, without help from others. (Note: You may find that it is more time efficient to answer all the questions from your understanding first, rather than take time to look them up, or run them through Eclipse to test them.)
+   </p>
+   <p>
+    Do not discuss this exam with anyone in CSE 2221 who has not yet taken the exam.
+   </p>
+   <p>
+    Failure to observe these restrictions will be treated as academic misconduct.
+   </p>
+   <p>
+    If needed, you may consult the OSU/CSE Javadoc APIs at
+    <a class="external" href="http://web.cse.ohio-state.edu/software/common/doc/" target="_blank">
+     <span>
+      http://web.cse.ohio-state.edu/software/common/doc/
+     </span>
+     <span class="screenreader-only">
+      (Links to an external site.)
+     </span>
+    </a>
+    . You may also consult the Java API at
+    <a class="external" href="https://docs.oracle.com/en/java/javase/14/docs/api/index.html" target="_blank">
+     <span>
+      https://docs.oracle.com/en/java/javase/14/docs/api/index.html
+     </span>
+     <span class="screenreader-only">
+      (Links to an external site.)
+     </span>
+    </a>
+    .
+   </p>
+   <p>
+    You must use spaces instead of the tab key for indenting in coding questions on Carmen. You may find it easier to write your coding solutions in a notepad or Eclipse and then copy and paster them to Carmen.
+   </p>
+  </div>
+  <p>
+   <span class="proctorioexam" style="display: none;">
+    a621a345b705dc1d93362141b9939086
+   </span>
+   <span class="proctoriocourse" style="display: none;">
+    84793
+   </span>
+  </p>
+  <p>
+   <iframe class="proctorio-embed" src="https://az545770.vo.msecnd.net/lti/exam" style="height: 540px; width: 100%; border: 0; overflow: hidden;">
+   </iframe>
+  </p>
+ </body>
+</html>
+Description Link: http://web.cse.ohio-state.edu/software/common/doc/
+Description Link: https://docs.oracle.com/en/java/javase/14/docs/api/index.html
+Quiz #3 (Remotely Proctored) (1907558)
+Assignment: Quiz #3 (Remotely Proctored) (1907558)
+Created: 2020-10-12T16:44:49Z
+Due: 2020-10-12T23:50:00Z
+Download submission: https://osu.instructure.com/courses/84793/quizzes/430440/submissions?zip=1
+Description: <html>
+ <body>
+  <div class="proctorio-oembed">
+   <p>
+    This exam is open book, open notes, open Eclipse. However, you may not confer, consult, or collaborate with anyone. You must complete this exam entirely on your own, without help from others. (Note: You may find that it is more time efficient to answer all the questions from your understanding first, rather than take time to look them up, or run them through Eclipse to test them.)
+   </p>
+   <p>
+    Do not discuss this exam with anyone in CSE 2221 who has not yet taken the exam.
+   </p>
+   <p>
+    Failure to observe these restrictions will be treated as academic misconduct.
+   </p>
+   <p>
+    If needed, you may consult the OSU/CSE Javadoc APIs at
+    <a class="external" href="http://web.cse.ohio-state.edu/software/common/doc/" target="_blank">
+     <span>
+      http://web.cse.ohio-state.edu/software/common/doc/
+     </span>
+     <span class="screenreader-only">
+      (Links to an external site.)
+     </span>
+    </a>
+    . You may also consult the Java API at
+    <a class="external" href="https://docs.oracle.com/en/java/javase/14/docs/api/index.html" target="_blank">
+     <span>
+      https://docs.oracle.com/en/java/javase/14/docs/api/index.html
+     </span>
+     <span class="screenreader-only">
+      (Links to an external site.)
+     </span>
+    </a>
+    .
+   </p>
+   <p>
+    You must use spaces instead of the tab key for indenting in coding questions on Carmen. You may find it easier to write your coding solutions in a notepad or Eclipse and then copy and paster them to Carmen.
+   </p>
+  </div>
+  <p>
+   <span class="proctorioexam" style="display: none;">
+    f464b536687db513731c0841ebe60e56
+   </span>
+   <span class="proctoriocourse" style="display: none;">
+    84793
+   </span>
+  </p>
+  <p>
+   <iframe class="proctorio-embed" src="https://az545770.vo.msecnd.net/lti/exam" style="height: 540px; width: 100%; border: 0; overflow: hidden;">
+   </iframe>
+  </p>
+ </body>
+</html>
+Description Link: http://web.cse.ohio-state.edu/software/common/doc/
+Description Link: https://docs.oracle.com/en/java/javase/14/docs/api/index.html
+Quiz #4 (Remotely Proctored) (1924677)
+Assignment: Quiz #4 (Remotely Proctored) (1924677)
+Created: 2020-10-26T21:59:12Z
+Due: 2020-10-26T23:50:00Z
+Download submission: https://osu.instructure.com/courses/84793/quizzes/436735/submissions?zip=1
+Description: <html>
+ <body>
+  <div class="proctorio-oembed">
+   <p>
+    <strong>
+     For this quiz and all future quizzes, you will be given 2 extra minutes to complete your answers. Use this time wisely.
+    </strong>
+   </p>
+   <p>
+   </p>
+   <p>
+    This exam is open book, open notes, open Eclipse. However, you may not confer, consult, or collaborate with anyone. You must complete this exam entirely on your own, without help from others. (Note: You may find that it is more time efficient to answer all the questions from your understanding first, rather than take time to look them up, or run them through Eclipse to test them.)
+   </p>
+   <p>
+    Do not discuss this exam with anyone in CSE 2221 who has not yet taken the exam.
+   </p>
+   <p>
+    Failure to observe these restrictions will be treated as academic misconduct.
+   </p>
+   <p>
+    If needed, you may consult the OSU/CSE Javadoc APIs at
+    <a class="external" href="http://web.cse.ohio-state.edu/software/common/doc/" target="_blank">
+     <span>
+      http://web.cse.ohio-state.edu/software/common/doc/
+     </span>
+     <span class="screenreader-only">
+      (Links to an external site.)
+     </span>
+    </a>
+    . You may also consult the Java API at
+    <a class="external" href="https://docs.oracle.com/en/java/javase/14/docs/api/index.html" target="_blank">
+     <span>
+      https://docs.oracle.com/en/java/javase/14/docs/api/index.html
+     </span>
+     <span class="screenreader-only">
+      (Links to an external site.)
+     </span>
+    </a>
+    .
+   </p>
+   <p>
+    You must use spaces instead of the tab key for indenting in coding questions on Carmen. You may find it easier to write your coding solutions in a notepad or Eclipse and then copy and paste them to Carmen.
+   </p>
+  </div>
+  <p>
+   <span class="proctorioexam" style="display: none;">
+    f19259fbd87a297685e0ed1a97111443
+   </span>
+   <span class="proctoriocourse" style="display: none;">
+    84793
+   </span>
+  </p>
+  <p>
+   <iframe class="proctorio-embed" src="https://az545770.vo.msecnd.net/lti/exam" style="height: 540px; width: 100%; border: 0; overflow: hidden;">
+   </iframe>
+  </p>
+ </body>
+</html>
+Description Link: http://web.cse.ohio-state.edu/software/common/doc/
+Description Link: https://docs.oracle.com/en/java/javase/14/docs/api/index.html
+Quiz #5 (Remotely Proctored) (1938758)
+Assignment: Quiz #5 (Remotely Proctored) (1938758)
+Created: 2020-11-09T23:04:31Z
+Due: 2020-11-17T00:50:00Z
+Download submission: https://osu.instructure.com/courses/84793/quizzes/441636/submissions?zip=1
+Description: <html>
+ <body>
+  <div class="proctorio-oembed">
+   <p>
+    This exam is open book, open notes, open Eclipse. However, you may not confer, consult, or collaborate with anyone. You must complete this exam entirely on your own, without help from others. (Note: You may find that it is more time efficient to answer all the questions from your understanding first, rather than take time to look them up, or run them through Eclipse to test them.)
+   </p>
+   <p>
+    Do not discuss this exam with anyone in CSE 2221 who has not yet taken the exam.
+   </p>
+   <p>
+    Failure to observe these restrictions will be treated as academic misconduct.
+   </p>
+   <p>
+    If needed, you may consult the OSU/CSE Javadoc APIs at
+    <a class="external" href="http://web.cse.ohio-state.edu/software/common/doc/" target="_blank">
+     <span>
+      http://web.cse.ohio-state.edu/software/common/doc/
+     </span>
+     <span class="screenreader-only">
+      (Links to an external site.)
+     </span>
+    </a>
+    . You may also consult the Java API at
+    <a class="external" href="https://docs.oracle.com/en/java/javase/14/docs/api/index.html" target="_blank">
+     <span>
+      https://docs.oracle.com/en/java/javase/14/docs/api/index.html
+     </span>
+     <span class="screenreader-only">
+      (Links to an external site.)
+     </span>
+    </a>
+    .
+   </p>
+   <p>
+    You must use spaces instead of the tab key for indenting in coding questions on Carmen. You may find it easier to write your coding solutions in a notepad or Eclipse and then copy and paste them to Carmen.
+   </p>
+  </div>
+  <p>
+   <span class="proctorioexam" style="display: none;">
+    61fc73a98cfef7b220576d7cef18249d
+   </span>
+   <span class="proctoriocourse" style="display: none;">
+    84793
+   </span>
+  </p>
+  <p>
+   <iframe class="proctorio-embed" src="https://az545770.vo.msecnd.net/lti/exam" style="height: 540px; width: 100%; border: 0; overflow: hidden;">
+   </iframe>
+  </p>
+ </body>
+</html>
+Description Link: http://web.cse.ohio-state.edu/software/common/doc/
+Description Link: https://docs.oracle.com/en/java/javase/14/docs/api/index.html
+Quiz #6 (Remotely Proctored) (1974332)
+Assignment: Quiz #6 (Remotely Proctored) (1974332)
+Created: 2020-12-07T23:51:15Z
+Due: 2020-12-08T00:50:00Z
+Download submission: https://osu.instructure.com/courses/84793/quizzes/454046/submissions?zip=1
+Description: <html>
+ <body>
+  <div class="proctorio-oembed">
+   <p>
+    This exam is open book, open notes, open Eclipse. However, you may not confer, consult, or collaborate with anyone. You must complete this exam entirely on your own, without help from others. (Note: You may find that it is more time efficient to answer all the questions from your understanding first, rather than take time to look them up, or run them through Eclipse to test them.)
+   </p>
+   <p>
+    Do not discuss this exam with anyone in CSE 2221 who has not yet taken the exam.
+   </p>
+   <p>
+    Failure to observe these restrictions will be treated as academic misconduct.
+   </p>
+   <p>
+    If needed, you may consult the OSU/CSE Javadoc APIs at
+    <a class="external" href="http://web.cse.ohio-state.edu/software/common/doc/" target="_blank">
+     <span>
+      http://web.cse.ohio-state.edu/software/common/doc/
+     </span>
+     <span class="screenreader-only">
+      (Links to an external site.)
+     </span>
+    </a>
+    . You may also consult the Java API at
+    <a class="external" href="https://docs.oracle.com/en/java/javase/14/docs/api/index.html" target="_blank">
+     <span>
+      https://docs.oracle.com/en/java/javase/14/docs/api/index.html
+     </span>
+     <span class="screenreader-only">
+      (Links to an external site.)
+     </span>
+    </a>
+    .
+   </p>
+   <p>
+    You must use spaces instead of the tab key for indenting in coding questions on Carmen. You may find it easier to write your coding solutions in a notepad or Eclipse and then copy and paste them to Carmen.
+   </p>
+  </div>
+  <p>
+   <span class="proctorioexam" style="display: none;">
+    0404fb8b8226d0c2eb190b589a8a6e61
+   </span>
+   <span class="proctoriocourse" style="display: none;">
+    84793
+   </span>
+  </p>
+  <p>
+   <iframe class="proctorio-embed" src="https://az545770.vo.msecnd.net/lti/exam" style="height: 540px; width: 100%; border: 0; overflow: hidden;">
+   </iframe>
+  </p>
+ </body>
+</html>
+Description Link: http://web.cse.ohio-state.edu/software/common/doc/
+Description Link: https://docs.oracle.com/en/java/javase/14/docs/api/index.html
+Participation (1809632)
+Assignment: Participation (1809632)
+Created: 2020-08-23T17:17:04Z
+Due: None
+Download submission: https://osu.instructure.com/courses/84793/assignments/1809632/submissions?zip=1
+Quiz #1 Makeup (Remotely Proctored) (1881630)
+Assignment: Quiz #1 Makeup (Remotely Proctored) (1881630)
+Created: 2020-09-21T21:45:20Z
+Due: 2020-09-21T23:50:00Z
+Download submission: https://osu.instructure.com/courses/84793/quizzes/420480/submissions?zip=1
+Description: <html>
+ <body>
+  <div class="proctorio-oembed">
+   <p>
+    This exam is open book, open notes, open Eclipse. However, you may not confer, consult, or collaborate with anyone. You must complete this exam entirely on your own, without help from others. (Note: You may find that it is more time efficient to answer all the questions from your understanding first, rather than take time to look them up, or run them through Eclipse to test them.)
+   </p>
+   <p>
+    Do not discuss this exam with anyone in CSE 2221 who has not yet taken the exam.
+   </p>
+   <p>
+    Failure to observe these restrictions will be treated as academic misconduct.
+   </p>
+   <p>
+    If needed, you may consult the OSU/CSE Javadoc APIs at
+    <a class="external" href="http://web.cse.ohio-state.edu/software/common/doc/" target="_blank">
+     <span>
+      http://web.cse.ohio-state.edu/software/common/doc/
+     </span>
+     <span class="screenreader-only">
+      (Links to an external site.)
+     </span>
+    </a>
+    . You may also consult the Java API at
+    <a class="external" href="https://docs.oracle.com/en/java/javase/14/docs/api/index.html" target="_blank">
+     <span>
+      https://docs.oracle.com/en/java/javase/14/docs/api/index.html
+     </span>
+     <span class="screenreader-only">
+      (Links to an external site.)
+     </span>
+    </a>
+    .
+   </p>
+   <p>
+    You must use spaces instead of the tab key for indenting in coding questions on Carmen. You may find it easier to write your coding solutions in a notepad or Eclipse and then copy and paste them to Carmen. You must indent your coding answers for legibility.
+   </p>
+  </div>
+  <p>
+   <span class="proctorioexam" style="display: none;">
+    26bb4c900ba9ae4936bf511646f89866
+   </span>
+   <span class="proctoriocourse" style="display: none;">
+    84793
+   </span>
+  </p>
+  <p>
+   <iframe class="proctorio-embed" src="https://az545770.vo.msecnd.net/lti/exam" style="height: 540px; width: 100%; border: 0; overflow: hidden;">
+   </iframe>
+  </p>
+ </body>
+</html>
+Description Link: http://web.cse.ohio-state.edu/software/common/doc/
+Description Link: https://docs.oracle.com/en/java/javase/14/docs/api/index.html
+Practice Quiz (Remotely Proctored) (1869840)
+Assignment: Practice Quiz (Remotely Proctored) (1869840)
+Created: 2020-09-12T15:53:29Z
+Due: None
+Download submission: https://osu.instructure.com/courses/84793/quizzes/416605/submissions?zip=1
+Description: <html>
+ <body>
+  <div class="proctorio-oembed">
+   <p>
+    This is a practice quiz. It's format and style of questions is similar to the rest of the quizzes in this class. You may take it as many times as you want in order to familiarize yourself with quiz-taking.
+   </p>
+   <p>
+    This exam is open book, open notes, open Eclipse. However, you may not confer, consult, or collaborate with anyone. You must complete this exam entirely on your own, without help from others. (Note: You may find that it is more time efficient to answer all the questions from your understanding first, rather than take time to look them up, or run them through Eclipse to test them.)
+   </p>
+   <p>
+    Do not discuss this exam with anyone in CSE 2221 who has not yet taken the exam.
+   </p>
+   <p>
+    Failure to observe these restrictions will be treated as academic misconduct.
+   </p>
+   <p>
+    If needed, you may consult the OSU/CSE Javadoc APIs at
+    <a href="http://web.cse.ohio-state.edu/software/common/doc/">
+     http://web.cse.ohio-state.edu/software/common/doc/
+    </a>
+    . You may also consult the Java API at
+    <a href="https://docs.oracle.com/en/java/javase/14/docs/api/index.html">
+     https://docs.oracle.com/en/java/javase/14/docs/api/index.html
+    </a>
+    .
+   </p>
+   <p>
+    You must use spaces instead of the tab key for indenting in coding questions on Carmen. You may find it easier to write your coding solutions in a notepad or Eclipse and then copy and paster them to Carmen.
+   </p>
+  </div>
+  <p>
+   <span class="proctorioexam" style="display: none;">
+    f10153b5011e6d9a545d5c937aabc593
+   </span>
+   <span class="proctoriocourse" style="display: none;">
+    84793
+   </span>
+  </p>
+  <p>
+   <iframe class="proctorio-embed" src="https://az545770.vo.msecnd.net/lti/exam" style="height: 540px; width: 100%; border: 0; overflow: hidden;">
+   </iframe>
+  </p>
+ </body>
+</html>
+Description Link: http://web.cse.ohio-state.edu/software/common/doc/
+Description Link: https://docs.oracle.com/en/java/javase/14/docs/api/index.html
+Press any key when all files are downloaded for this course...

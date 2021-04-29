@@ -1,4 +1,7 @@
+#!/bin/env python3
 import os
+import sys
+import argparse
 
 import canvasapi.course, canvasapi.user, canvasapi.file
 
@@ -6,6 +9,10 @@ from src.assignment import Assignment
 from src.filesystem import FileSystem
 from src.module import Module
 from src.util import safe_name
+
+
+parser = argparse.ArgumentParser(description='Download and store files from Canvas courses')
+parser.add_argument('-i', '--interactive', action='store_true')
 
 
 class Course:
@@ -28,17 +35,18 @@ class Course:
 
 
     def download(self):
+        print("boop")
         dir_name = f"./downloads/{safe_name(self.id, self.name)}"
 
-        # If the course downloads directory doesn't exist, make it
-        if not os.path.exists(dir_name):
-            os.makedirs(dir_name)
+        # If the course downloads directory doesn't exist, make it if not os.path.exists(dir_name): os.makedirs(dir_name)
 
         # Download all course modules and their module items
+        print("boop1")
         for module in self.modules:
             module.download(dir_name + "/modules")
 
         # Download all of the assignments and their submissions
+        print("boop2")
         for assignment in self.assignments:
             assignment.download(dir_name + "/assignments")
 
@@ -51,11 +59,27 @@ class Course:
 if __name__ == "__main__":
     import canvasapi
 
-    API_URL = "https://canvas.wpi.edu"
+    API_URL = os.getenv("CANVAS_API_URL", "NO_API_URL_SET")
     API_KEY = os.getenv("CANVAS_API_KEY", "NO_API_KEY_SET")
+    args = parser.parse_args()
 
-    canvas = canvasapi.Canvas(API_URL, API_KEY)
-    user = canvas.get_current_user()
+    if args.interactive:
+        API_URL = input("Please enter the API URL to use\n")
+        API_KEY = input("Please enter the API KEY to use\n")
+        canvas = canvasapi.Canvas(API_URL, API_KEY)
+        user = canvas.get_current_user()
 
-    course = Course(canvas.get_course('10614'), user, canvas)
-    course.download()
+
+        courses = canvas.get_courses()
+        for course in courses:
+            c = Course(course, user, canvas)
+            c.download()
+    elif API_KEY != "NO_API_KEY_SET" and API_URL != "NO_API_URL_SET":
+        canvas = canvasapi.Canvas(API_URL, API_KEY)
+        user = canvas.get_current_user()
+
+        courses = canvas.get_courses()
+        for course in courses:
+            course.download()
+    else:
+        print("CANVAS_API_KEY or CANVAS_API_URL environment variables are not set and this script is not in interactive mode.", file = sys.stderr)
